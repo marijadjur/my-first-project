@@ -90,13 +90,5 @@ public class FirstHomeWork_01032023 {
         int totalDistance = 15984 - 569;
         System.out.println(totalDistance);
 
-
-
-
-
-
-
-
-
     }
 }
